@@ -1,0 +1,35 @@
+برای شروع در دایرکتوری پروژه این کد هارو داخل cmd میزنیم 
+
+
+1 - git init 
+
+2- git status
+
+3- git add .
+
+4- git status
+
+5-git commit -m "هر کامنتی که بخاییم"
+
+6-git branch -M main
+
+7-git remote add origin (ادرس ریگازتوری گیت)
+
+8-git push -u origin main
+
+
+////////////////////////////
+
+
+2- git status
+
+3- git add .
+
+5-git commit -m "هر کامنتی که بخاییم"
+
+6-git branch ali
+این دستور برای ساخت یک برنچ جدید
+
+7-git remote add origin (ادرس ریگازتوری گیت)
+
+8-git push  origin ali
